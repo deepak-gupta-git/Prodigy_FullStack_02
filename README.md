@@ -65,8 +65,5 @@ cd frontend
 npm start
 
 5. Open in Browser
-Visit: http://localhost:3000
+Visit: http://localhost:8000
 
-# Clone the repository:
-git clone https://github.com/your-repo/employee-management.git
-cd employee-management
