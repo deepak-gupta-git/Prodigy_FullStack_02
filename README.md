@@ -27,12 +27,12 @@ MongoDB (Local or Cloud Instance)
 
 Steps to Run the Project
 
-1. Clone the Repository
+# 1. Clone the Repository
 
 git clone https://github.com/your-repo/employee-management.git
 cd employee-management
 
-2. Install Dependencies
+# 2. Install Dependencies
 
 Backend
 
@@ -44,15 +44,14 @@ Frontend
 cd frontend
 npm install
 
-3. Configure Environment Variables
+# 3. Configure Environment Variables
 
 Create a .env file in the backend folder and configure the following:
 
 MONGO_URI=your_mongodb_connection_string
-PORT=5000
-JWT_SECRET=your_secret_key
+PORT=8000
 
-4. Start the Application
+# 4. Start the Application
 
 Start Backend Server
 
@@ -64,6 +63,6 @@ Start Frontend Server
 cd frontend
 npm start
 
-5. Open in Browser
+# 5. Open in Browser
 Visit: http://localhost:8000
 
